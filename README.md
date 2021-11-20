@@ -1,5 +1,7 @@
 # Shop Token coding challenge
 
+[![Shop Token coding challenge workflow](https://github.com/jetre219/st-coding-challenge/actions/workflows/workflow.yml/badge.svg)](https://github.com/jetre219/st-coding-challenge/actions/workflows/workflow.yml)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
