@@ -1,0 +1,9 @@
+.shared-text-input {
+  width: 800px;
+  height: 240px;
+  border-radius: 4px;
+}
+
+.shared-text-input-error {
+  outline: 3px solid red;
+}
